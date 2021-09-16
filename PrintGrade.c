@@ -8,6 +8,7 @@ void main()
   int SearchID, found_index; 
  
   printf("\nSTUDENT GPA LIST: \n"); 
+  printf("\nHELLOHELLOHELLOHELLO \n"); 
   printf("ID----Name------------------------GPA\n"); 
   for (i=0;i<N; i++)
     printf("%5d %-25s %5.2f\n", ID[i], Name[i], GPA[i]); 
